@@ -1,0 +1,3 @@
+*.exe
+go.sum
+/examples/mandlebrot/mandlebrot
